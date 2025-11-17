@@ -87,7 +87,7 @@ A full-featured, role-based e-learning platform built with **React**, **Next.js*
 Clone the project
 
 ```bash
-  git clone https://github.com/NiharMondal/edu-sphere
+  git clone https://github.com/MeAkash77/Edu-Sphere-LMS.git
 ```
 
 Go to the project directory
@@ -128,5 +128,4 @@ To run this project, you will need to add the following environment variables to
 
 ## 📬 Contact
 
-Built by [Nihar Mondal](https://nihar-mondal.vercel.app)  
 Feel free to reach out for collaboration or feedback!
